@@ -1,5 +1,5 @@
 # MultiscaleDRPNet
-This repo provides code for our paper <b>Multiscale fusion of digital rock images based on deep generative adversarial networks</b> ([preprint version](https://www.essoar.org/doi/10.1002/essoar.10510572.1)).
+This repo provides code for our paper <b>Multiscale fusion of digital rock images based on deep generative adversarial networks</b> ([Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GL098342)).
 * Authors: Mingliang Liu and Tapan Mukerji
 
 
